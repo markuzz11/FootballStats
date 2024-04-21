@@ -1,0 +1,9 @@
+mplsoccer
+matplotlib
+numpy
+pandas
+highlight_text
+PIL
+urllib.request
+scipy.ndimage
+cmasher
