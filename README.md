@@ -14,6 +14,7 @@ Here are some statistical data of player Neymar Jr. and PSG team in the French l
 ### Installation:
 If you are running the project on your own machine, execute:
 1. `pip install requirements.txt`
+
 If you are running the project in Google Colab, execute:
 1. `!pip install requirements.txt`
 
